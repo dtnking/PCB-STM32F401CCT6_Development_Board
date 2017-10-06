@@ -520,9 +520,9 @@ F 3 "" H 8700 1200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 8500 1150 2    60   ~ 0
-SWDIO
-Text Label 8500 1250 2    60   ~ 0
 SWDCLK
+Text Label 8500 1250 2    60   ~ 0
+SWDIO
 $Comp
 L Crystal Y1
 U 1 1 59D2B76B
@@ -1308,4 +1308,6 @@ Text Label 7600 3800 2    60   ~ 0
 SWDIO
 Wire Wire Line
 	6650 3100 6650 2650
+Text Label 8300 1050 0    60   ~ 0
+GND
 $EndSCHEMATC
