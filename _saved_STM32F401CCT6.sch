@@ -188,7 +188,7 @@ U 1 1 59D25C47
 P 2700 1200
 F 0 "J2" H 2750 1400 50  0000 C CNN
 F 1 "Conn_02x03_Odd_Even" H 2750 1000 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm_SMD" H 2700 1200 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm" H 2700 1200 50  0001 C CNN
 F 3 "" H 2700 1200 50  0001 C CNN
 	1    2700 1200
 	1    0    0    -1  
