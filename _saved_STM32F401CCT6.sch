@@ -68,7 +68,7 @@ RESET
 Text Label 4600 4300 0    60   ~ 0
 GND
 Text Label 4600 4400 0    60   ~ 0
-VCC3v3
+VCC
 Text Label 4600 4500 0    60   ~ 0
 PA0
 Text Label 4600 4600 0    60   ~ 0
@@ -98,7 +98,7 @@ PB11
 Text Label 6550 5600 1    60   ~ 0
 GND
 Text Label 6650 5600 1    60   ~ 0
-VCC3v3
+VCC
 Text Label 7600 4700 2    60   ~ 0
 PB12
 Text Label 7600 4600 2    60   ~ 0
@@ -120,7 +120,7 @@ PA12
 Text Label 7600 3700 2    60   ~ 0
 GND
 Text Label 7600 3600 2    60   ~ 0
-VCC3v3
+VCC
 Text Label 6650 2650 3    60   ~ 0
 SWDCLK
 Text Label 6550 2650 3    60   ~ 0
@@ -144,7 +144,7 @@ PB9
 Text Label 5650 2650 3    60   ~ 0
 GND
 Text Label 5550 2650 3    60   ~ 0
-VCC3v3
+VCC
 $Comp
 L STM32F401CCT6 U2
 U 1 1 59D25914
@@ -326,7 +326,7 @@ U 1 1 59D27219
 P 900 6300
 F 0 "J1" H 700 6750 50  0000 L CNN
 F 1 "USB_OTG" H 700 6650 50  0000 L CNN
-F 2 "Connectors_USB:USB_Micro-B_Molex_47346-0001" H 1050 6250 50  0001 C CNN
+F 2 "Connectors_USB:USB_Micro-B_Molex-105017-0001" H 1050 6250 50  0001 C CNN
 F 3 "" H 1050 6250 50  0001 C CNN
 	1    900  6300
 	1    0    0    -1  
@@ -540,7 +540,7 @@ U 1 1 59D2BDDD
 P 4750 6750
 F 0 "Y2" V 4750 6900 50  0000 C CNN
 F 1 "8MHz" V 4650 6950 50  0000 C CNN
-F 2 "Crystals:Crystal_HC49-U_Vertical" H 4750 6750 50  0001 C CNN
+F 2 "Crystals:Crystal_HC49-4H_Vertical" H 4750 6750 50  0001 C CNN
 F 3 "" H 4750 6750 50  0001 C CNN
 	1    4750 6750
 	0    1    1    0   
@@ -687,7 +687,7 @@ PB11
 Text Label 4000 4200 2    60   ~ 0
 RESET
 Text Label 4000 4300 2    60   ~ 0
-VCC3v3
+VCC
 Text Label 4000 4400 2    60   ~ 0
 GND
 Text Label 4000 4500 2    60   ~ 0
@@ -1001,7 +1001,7 @@ F 3 "" H 8900 3650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 8300 2750 0    60   ~ 0
-VCC3v3
+VCC
 Text Label 8300 2850 0    60   ~ 0
 GND
 Text Label 8300 2950 0    60   ~ 0
@@ -1312,4 +1312,10 @@ F 3 "" H 5250 1550 50  0001 C CNN
 	1    5250 1550
 	-1   0    0    1   
 $EndComp
+Text Label 1350 6300 0    60   ~ 0
+D-
+Text Label 1350 6400 0    60   ~ 0
+D+
+Text Label 1250 6500 0    60   ~ 0
+ID
 $EndSCHEMATC
