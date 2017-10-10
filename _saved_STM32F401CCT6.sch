@@ -876,7 +876,7 @@ F 3 "" H 8700 900 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Text Label 8500 1450 2    60   ~ 0
-STM_LINK
+VCC
 $Comp
 L Conn_01x20_des J3
 U 1 1 59D390CF
