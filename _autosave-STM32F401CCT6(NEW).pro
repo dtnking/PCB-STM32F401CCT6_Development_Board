@@ -1,4 +1,4 @@
-update=10/10/2017 4:38:22 PM
+update=10/10/2017 6:41:37 PM
 version=1
 last_client=pcbnew
 [general]
@@ -48,10 +48,10 @@ LibName32=valves
 version=1
 PageLayoutDescrFile=
 LastNetListRead=STM32F401CCT6(1).net
-PadDrill=0.762
-PadDrillOvalY=0.762
-PadSizeH=1.524
-PadSizeV=1.524
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=1.3
+PadSizeV=1.9
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
