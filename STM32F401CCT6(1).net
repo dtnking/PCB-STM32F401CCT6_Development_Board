@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\STM32F401CCT6.sch)
-    (date "10/10/2017 11:32:31 PM")
+    (source C:/Users/user2/Desktop/project/PCB-STM32F401CCT6_Development_Board/STM32F401CCT6.sch)
+    (date "10/11/2017 6:23:20 PM")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref U2)
       (value STM32F401CCT6)
-      (footprint UFQFPN48:UFQFPN48)
+      (footprint QFPN48:UFQFPN48)
       (libsource (lib stm32f401cct6) (part STM32F401CCT6))
       (sheetpath (names /) (tstamps /))
       (tstamp 59D25914))

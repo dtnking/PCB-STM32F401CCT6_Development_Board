@@ -1,4 +1,4 @@
-update=10/10/2017 6:41:37 PM
+update=10/11/2017 5:32:46 PM
 version=1
 last_client=pcbnew
 [general]
@@ -47,7 +47,7 @@ LibName32=valves
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=STM32F401CCT6(1).net
+LastNetListRead=../../PCB-STM32F401CCT6_Development_Board/STM32F401CCT6(1).net
 PadDrill=0
 PadDrillOvalY=0
 PadSizeH=1.3
