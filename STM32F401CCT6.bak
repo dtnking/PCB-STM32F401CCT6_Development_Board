@@ -181,7 +181,7 @@ F 3 "" H 5950 1550 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Text Label 6300 1550 2    60   ~ 0
-GND
+PC13
 $Comp
 L Conn_02x03_Odd_Even J2
 U 1 1 59D25C47
@@ -876,7 +876,7 @@ F 3 "" H 8700 900 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Text Label 8500 1450 2    60   ~ 0
-STM_LINK
+VCC
 $Comp
 L Conn_01x20_des J3
 U 1 1 59D390CF
