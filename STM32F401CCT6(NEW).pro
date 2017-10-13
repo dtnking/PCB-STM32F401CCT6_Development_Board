@@ -1,6 +1,6 @@
-update=10/10/2017 4:46:07 PM
+update=10/13/17 13:39:07
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -47,11 +47,11 @@ LibName32=valves
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=STM32F401CCT6(1).net
-PadDrill=0.762
-PadDrillOvalY=0.762
-PadSizeH=1.524
-PadSizeV=1.524
+LastNetListRead=STM32F401CCT6.net
+PadDrill=1
+PadDrillOvalY=1
+PadSizeH=1.7
+PadSizeV=1.7
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
