@@ -708,7 +708,7 @@ VCC
 Text Label 8300 2850 0    60   ~ 0
 GND
 Text Label 8300 2950 0    60   ~ 0
-STM_LINK
+ST_LINK
 Text Label 8300 3050 0    60   ~ 0
 PB9
 Text Label 8300 3150 0    60   ~ 0
@@ -930,7 +930,7 @@ SWDIO
 Text Label 8300 1050 0    60   ~ 0
 GND
 Text Label 1700 5900 0    60   ~ 0
-STM_LINK
+ST_LINK
 $Comp
 L LED_ALT D1
 U 1 1 59D75F5E
