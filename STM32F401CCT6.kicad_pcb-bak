@@ -3,7 +3,7 @@
   (general
     (links 121)
     (no_connects 0)
-    (area 73.652999 99.972999 125.803001 123.123001)
+    (area 73.652999 99.972999 125.805001 122.975001)
     (thickness 1.6)
     (drawings 83)
     (tracks 756)
@@ -63,7 +63,6 @@
     (pad_drill 0.85)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 124.31 119.36)
-    (grid_origin 75.62 103.63)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x0ffff_80000001)
@@ -1904,6 +1903,7 @@
     )
   )
 
+  (gr_line (start 73.728 100.048) (end 73.73 122.9) (layer Edge.Cuts) (width 0.15))
   (gr_text - (at 117.23 110.76 90) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.1875)))
   )
@@ -1925,10 +1925,9 @@
   (gr_line (start 109.44 114.12) (end 109.3 113.48) (layer B.SilkS) (width 0.2))
   (gr_line (start 109.89 113.76) (end 109.3 113.48) (layer B.SilkS) (width 0.2))
   (gr_circle (center 110.395294 114.99) (end 109.815294 113.9) (layer B.SilkS) (width 0.2))
-  (gr_line (start 125.728 123.048) (end 73.728 123.048) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 125.728 100.048) (end 125.728 123.048) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 125.73 122.9) (end 73.73 122.9) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 125.728 100.048) (end 125.73 122.9) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 73.728 100.048) (end 125.728 100.048) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 73.728 100.048) (end 73.728 123.048) (layer Edge.Cuts) (width 0.15))
   (gr_text RST (at 80.768 108.238 90) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
