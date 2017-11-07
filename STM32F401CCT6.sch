@@ -980,8 +980,6 @@ Wire Wire Line
 	750  3850 750  3950
 Wire Wire Line
 	1000 3950 1600 3950
-Wire Wire Line
-	750  3850 1600 3850
 Connection ~ 2600 3850
 Wire Wire Line
 	10100 3750 9700 3750
@@ -1481,7 +1479,7 @@ Wire Wire Line
 Wire Wire Line
 	1250 3550 1250 4050
 Wire Wire Line
-	1250 3850 1300 3850
+	750  3850 1600 3850
 Connection ~ 1250 3850
 Text Label 1550 4400 0    60   ~ 0
 PWR_EN
