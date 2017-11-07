@@ -1,4 +1,4 @@
-update=10/10/17 01:00:02
+update=07/11/2017 20:42:08
 version=1
 last_client=pcbnew
 [general]
@@ -52,11 +52,11 @@ LibName37=USBLC6-2SC6
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=STM32F401CCT6(1).net
-PadDrill=0.762
-PadDrillOvalY=0.762
-PadSizeH=1.524
-PadSizeV=1.524
+LastNetListRead=STM32F401CCT6.net
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=2.5
+PadSizeV=2.5
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
