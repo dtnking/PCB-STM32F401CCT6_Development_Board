@@ -1,6 +1,6 @@
-update=07/11/2017 20:42:08
+update=11/13/2017 5:52:50 PM
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -8,6 +8,25 @@ BoardNm=
 [cvpcb]
 version=1
 NetIExt=net
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=STM32F401CCT6.net
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=2.5
+PadSizeV=2.5
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=1
+ModuleTextSizeH=1
+ModuleTextSizeThickness=0.15
+SolderMaskClearance=0.2
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.2
+BoardOutlineThickness=0.15
+ModuleOutlineThickness=0.15
 [eeschema]
 version=1
 LibDir=
@@ -49,22 +68,3 @@ LibName34=stm32f401cct6
 LibName35=conn_01x05_descending
 LibName36=conn_01x20_descending
 LibName37=USBLC6-2SC6
-[pcbnew]
-version=1
-PageLayoutDescrFile=
-LastNetListRead=STM32F401CCT6.net
-PadDrill=0
-PadDrillOvalY=0
-PadSizeH=2.5
-PadSizeV=2.5
-PcbTextSizeV=1.5
-PcbTextSizeH=1.5
-PcbTextThickness=0.3
-ModuleTextSizeV=1
-ModuleTextSizeH=1
-ModuleTextSizeThickness=0.15
-SolderMaskClearance=0.2
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.2
-BoardOutlineThickness=0.15
-ModuleOutlineThickness=0.15
