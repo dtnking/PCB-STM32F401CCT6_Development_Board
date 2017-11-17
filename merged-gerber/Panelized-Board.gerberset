@@ -5,51 +5,34 @@
     <string>C:\Users\user2\Desktop\project\PCB-RJ12\RJ-12</string>
     <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
     <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-link</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-link</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-link</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-link</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-link</string>
+    <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board</string>
+    <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
+    <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
+    <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
+    <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-Link</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-Link</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-Link</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-Link</string>
+    <string>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-Link</string>
+    <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
+    <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
+    <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
+    <string>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</string>
   </LoadedOutlines>
   <Instances>
     <GerberInstance>
       <Center>
-        <X>68</X>
-        <Y>23</Y>
-      </Center>
-      <Angle>0</Angle>
-      <GerberPath>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-link</GerberPath>
-      <Generated>false</Generated>
-    </GerberInstance>
-    <GerberInstance>
-      <Center>
         <X>52</X>
         <Y>23</Y>
       </Center>
       <Angle>0</Angle>
       <GerberPath>C:\Users\user2\Desktop\project\PCB-RJ12\RJ-12</GerberPath>
-      <Generated>false</Generated>
-    </GerberInstance>
-    <GerberInstance>
-      <Center>
-        <X>68</X>
-        <Y>46</Y>
-      </Center>
-      <Angle>0</Angle>
-      <GerberPath>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-link</GerberPath>
-      <Generated>false</Generated>
-    </GerberInstance>
-    <GerberInstance>
-      <Center>
-        <X>68</X>
-        <Y>69</Y>
-      </Center>
-      <Angle>0</Angle>
-      <GerberPath>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-link</GerberPath>
-      <Generated>false</Generated>
-    </GerberInstance>
-    <GerberInstance>
-      <Center>
-        <X>68</X>
-        <Y>92</Y>
-      </Center>
-      <Angle>0</Angle>
-      <GerberPath>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-link</GerberPath>
       <Generated>false</Generated>
     </GerberInstance>
     <GerberInstance>
@@ -81,11 +64,38 @@
     </GerberInstance>
     <GerberInstance>
       <Center>
-        <X>0</X>
+        <X>68</X>
         <Y>23</Y>
       </Center>
       <Angle>0</Angle>
-      <GerberPath>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</GerberPath>
+      <GerberPath>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-Link</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>68</X>
+        <Y>92</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-Link</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>68</X>
+        <Y>69</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-Link</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>68</X>
+        <Y>46</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\Users\user2\Desktop\project\STLINK_V2-1\ST-Link</GerberPath>
       <Generated>false</Generated>
     </GerberInstance>
     <GerberInstance>
@@ -100,7 +110,7 @@
     <GerberInstance>
       <Center>
         <X>0</X>
-        <Y>69</Y>
+        <Y>92</Y>
       </Center>
       <Angle>0</Angle>
       <GerberPath>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</GerberPath>
@@ -109,7 +119,16 @@
     <GerberInstance>
       <Center>
         <X>0</X>
-        <Y>92</Y>
+        <Y>23</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>0</X>
+        <Y>69</Y>
       </Center>
       <Angle>0</Angle>
       <GerberPath>C:\Users\user2\Desktop\project\PCB-STM32F401CCT6_Development_Board\Dev.Board</GerberPath>
