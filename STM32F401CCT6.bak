@@ -574,7 +574,7 @@ VDD
 Text Label 9700 1950 0    60   ~ 0
 GND
 Text Label 9700 2050 0    60   ~ 0
-ST_LINK
+Vin
 Text Label 9700 2150 0    60   ~ 0
 PB9
 Text Label 9700 2250 0    60   ~ 0
@@ -774,7 +774,7 @@ SWDIO
 Text Label 7550 1100 0    60   ~ 0
 GND
 Text Label 1700 5200 0    60   ~ 0
-ST_LINK
+Vin
 $Comp
 L LED_ALT D1
 U 1 1 59D75F5E
