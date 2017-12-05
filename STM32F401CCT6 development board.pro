@@ -1,4 +1,4 @@
-update=10/02/17 21:36:28
+update=12/5/2017 9:09:34 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=D:/Desktop/project/STM32F401CCT6 development board
@@ -62,3 +60,5 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=stm32f401cct6
+[general]
+version=1
